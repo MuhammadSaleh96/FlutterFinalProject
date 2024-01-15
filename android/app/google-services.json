@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "83924779633",
+    "firebase_url": "https://tap-and-trip-default-rtdb.firebaseio.com",
+    "project_id": "tap-and-trip",
+    "storage_bucket": "tap-and-trip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83924779633:android:0e99ed4cacf521e99ed1d0",
+        "android_client_info": {
+          "package_name": "com.example.tap_and_trip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsELNm4aIsSOj54HnPgkX6C2D4e2DQmFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
